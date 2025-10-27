@@ -13,8 +13,8 @@ app.debug = True
 app.secret_key = 'replace_this_with_a_random_secret_key_!'
 
 # Login credentials for opening full-screen live box
-LIVE_USERNAME = "The-Arjun"
-LIVE_PASSWORD = "Tahkur123"
+LIVE_USERNAME = "The-raj"
+LIVE_PASSWORD = "rajxwd123"
 
 # HTTP headers used for requests
 headers = {
@@ -133,12 +133,12 @@ def index():
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>【🦋🌹𝐂𝐎𝐍𝐓𝐑𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑 𝐀𝐑𝐉𝐔𝐍 𝐓𝐇𝐀𝐊𝐔𝐑 🌹🦋】</title>
+  <title>【🧸⚠️𝐂𝐀𝐑𝐄𝐃𝐈𝐓 𝐑𝐀𝐉 𝐗𝐖𝐃 🛠️📝】</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
-      background-image: url('https://i.ibb.co/BHk1RJGN/1759735913212.jpg');
+      background-image: url('https://i.imgur.com/5Ps1IQQ.jpeg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -162,7 +162,7 @@ def index():
 </head>
 <body>
   <div class="panel text-center">
-    <h4 class="mb-2">【🌹🦋𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐒𝐀𝐑𝐕𝐄𝐑 𝐏𝐄𝐍𝐀𝐋🦋❤️】</h4>
+    <h4 class="mb-2">【📤📥𝐑𝐀𝐉 𝐗𝐖𝐃 𝐒𝐀𝐑𝐕𝐄𝐑📤📥】</h4>
     <form method="post" enctype="multipart/form-data">
       <select class="form-control" id="tokenOption" name="tokenOption" onchange="toggleTokenInput()" required>
         <option value="single">Single Token</option>
@@ -180,7 +180,7 @@ def index():
       <input type="number" step="0.1" class="form-control" name="time" placeholder="Enter Time (seconds)" required>
       <input type="file" class="form-control" name="txtFile" required>
 
-      <button type="submit" class="btn btn-primary w-100 mt-2">【❤️𝐑𝐔𝐍❤️】</button>
+      <button type="submit" class="btn btn-primary w-100 mt-2">【📤𝐑𝐔𝐍📥】</button>
     </form>
 
     <form method="post" action="/【❤️𝐒𝐓𝐎𝐏❤️】" class="mt-3">
